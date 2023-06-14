@@ -1,0 +1,18 @@
+C:\Users\telaz\source\repos\Приложение с задачей\Приложение с задачей\bin\Debug\net6.0-windows\Приложение с задачей.exe
+C:\Users\telaz\source\repos\Приложение с задачей\Приложение с задачей\bin\Debug\net6.0-windows\Приложение с задачей.deps.json
+C:\Users\telaz\source\repos\Приложение с задачей\Приложение с задачей\bin\Debug\net6.0-windows\Приложение с задачей.runtimeconfig.json
+C:\Users\telaz\source\repos\Приложение с задачей\Приложение с задачей\bin\Debug\net6.0-windows\Приложение с задачей.dll
+C:\Users\telaz\source\repos\Приложение с задачей\Приложение с задачей\bin\Debug\net6.0-windows\Приложение с задачей.pdb
+C:\Users\telaz\source\repos\Приложение с задачей\Приложение с задачей\obj\Debug\net6.0-windows\Приложение с задачей.csproj.AssemblyReference.cache
+C:\Users\telaz\source\repos\Приложение с задачей\Приложение с задачей\obj\Debug\net6.0-windows\Приложение_с_задачей.Form1.resources
+C:\Users\telaz\source\repos\Приложение с задачей\Приложение с задачей\obj\Debug\net6.0-windows\Приложение_с_задачей.Form2.resources
+C:\Users\telaz\source\repos\Приложение с задачей\Приложение с задачей\obj\Debug\net6.0-windows\Приложение с задачей.csproj.GenerateResource.cache
+C:\Users\telaz\source\repos\Приложение с задачей\Приложение с задачей\obj\Debug\net6.0-windows\Приложение с задачей.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\telaz\source\repos\Приложение с задачей\Приложение с задачей\obj\Debug\net6.0-windows\Приложение с задачей.AssemblyInfoInputs.cache
+C:\Users\telaz\source\repos\Приложение с задачей\Приложение с задачей\obj\Debug\net6.0-windows\Приложение с задачей.AssemblyInfo.cs
+C:\Users\telaz\source\repos\Приложение с задачей\Приложение с задачей\obj\Debug\net6.0-windows\Приложение с задачей.csproj.CoreCompileInputs.cache
+C:\Users\telaz\source\repos\Приложение с задачей\Приложение с задачей\obj\Debug\net6.0-windows\Приложение с задачей.dll
+C:\Users\telaz\source\repos\Приложение с задачей\Приложение с задачей\obj\Debug\net6.0-windows\refint\Приложение с задачей.dll
+C:\Users\telaz\source\repos\Приложение с задачей\Приложение с задачей\obj\Debug\net6.0-windows\Приложение с задачей.pdb
+C:\Users\telaz\source\repos\Приложение с задачей\Приложение с задачей\obj\Debug\net6.0-windows\Приложение с задачей.genruntimeconfig.cache
+C:\Users\telaz\source\repos\Приложение с задачей\Приложение с задачей\obj\Debug\net6.0-windows\ref\Приложение с задачей.dll
